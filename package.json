@@ -1,7 +1,7 @@
 {
   "name": "train",
   "version": "1.0.0",
-  "description": "by void.",
+  "description": "by wannadie",
   "main": "bot.js",
   "dependencies": {
     "discord.js": "^11.4.2"
@@ -10,6 +10,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "void.",
+  "author": "wannadie",
   "license": "ISC"
 }
