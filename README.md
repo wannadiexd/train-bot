@@ -1,1 +1,2 @@
-# train-bot
+simple bot for moderation
+nothing special
